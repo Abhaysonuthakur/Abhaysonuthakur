@@ -5,7 +5,7 @@
 Email Me 👉 ✉️ **abhay.thakur9844@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on: IDS In IOV** 
-- 🌱 **I’m currently learning: Java FullStack anf AI/ML**
+- 🌱 **I’m currently learning: Java FullStack and AI/ML**
 - 👯 **I’m looking to collaborate on:** Enter your project name and info
 - 📫 **How to reach me: abhay.thakur9844@gmail.com** 
 - 😄 **Pronouns: Abhay**
